@@ -6,3 +6,7 @@ this simply gets the number of the likes and challenges that users completeed
 
 links are found in more dev tools in your browser in the Network section.
 
+npm init
+npm install request-promise
+npm install cheerio
+npm install cli-tables
